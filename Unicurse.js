@@ -851,7 +851,7 @@ multiScale = random() < 0.8
     ])
   }
 
-  colorPalleteName = 'web'
+  //colorPalleteName = 'web'
 
   if (colorPalleteName === 'oysterCove') {
     colorPaletteNum = 0
