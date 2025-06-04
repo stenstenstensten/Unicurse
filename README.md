@@ -1,6 +1,6 @@
 # Unicurse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Generative Artwork by xsten 2025
+# Generative Artwork by xsten 2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Generative labyrinth of rooms, meditative game-watching, and responsive screen-resize
 
